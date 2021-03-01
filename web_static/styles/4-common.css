@@ -16,10 +16,18 @@ body{
 h3{
         font-weight: 600;
         margin-bottom: 0px;
+        margin-left: 30px;
 }
 
 h4{
         margin: 0px;
         font-weight: 400;
         font-size: 14px;
+        margin-left: 30px;
+}
+
+h2{
+        margin-top: 0px;
+        font-size: 16px;
+        margin-left: h4;
 }
