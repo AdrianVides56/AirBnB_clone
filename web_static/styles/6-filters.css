@@ -25,7 +25,7 @@
         opacity: 90%;
 }
 
-.locations, .amenities {
+.locations, .ameni {
         /*display: flex;
         align-items: flex-start;
         flex-direction: column;*/
@@ -60,7 +60,7 @@
         position: relative;
 }
 .locations:hover .popover,
-.amenities:hover .popover {
+.ameni:hover .popover {
         display: block;
 }
 .state {
